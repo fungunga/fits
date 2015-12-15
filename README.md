@@ -1,3 +1,22 @@
+...just clone and try the following:
+
+::
+
+    mvn eclipse:clean eclipse:eclipse
+    mvn clean -DskipTests=true package
+
+
+	- tests are not running yet
+	- based on v0.8.10
+
+
+
+...
+
+
+
+
+
 FITS
 ====
 
